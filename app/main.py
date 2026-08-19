@@ -1,0 +1,1 @@
+print("CampusPilot AI started")
